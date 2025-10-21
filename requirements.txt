@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+seaborn
+requests
+flask
+beautifulsoup4
+matplotlib
+tensorflow
+torch 
+transformers 
+langchain 
+chromadb 
+sentence-transformers 
+streamlit
